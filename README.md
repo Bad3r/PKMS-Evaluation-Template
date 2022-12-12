@@ -64,7 +64,7 @@ The performance and usability of a PKMS is an important factor to consider when 
   * Look for reviews and ratings of the PKMS from other users and experts
 
 * To evaluate the support for open source and privacy in the PKMS, you can:
-  * Check the licenses and terms of service for the PKMS, and determine whether they support open source or proprietary software
+  * Check the licenses and terms of service for the PKMS, and determine whether it is open source or proprietary software
   * Evaluate the privacy policies and data protection measures of the PKMS, and determine whether they adequately protect user data and privacy
   * Ask other users and experts for their opinions and feedback on the open source and privacy support of the PKMS
 
