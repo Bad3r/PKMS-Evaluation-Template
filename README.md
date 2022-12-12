@@ -150,7 +150,7 @@ The community and ecosystem of a PKMS system is an important factor to consider 
 &nbsp;
 
 
-## Cost evaluation
+## Cost Evaluation
 
 ---
 
